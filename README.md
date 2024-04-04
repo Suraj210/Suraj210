@@ -1,7 +1,5 @@
 <h2 align="center">🌟 I'm passionate about crafting exceptional web experiences and solving complex problems through innovative solutions💡. With a strong foundation in both frontend and backend technologies 💻, I strive to deliver high-quality software products that meet user requirements and business objectives 🚀.</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suraj210&show_icons=true)](https://github.com/Suraj210/github-readme-stats&show_icons=true)
-
 <img align="right" height="152" src="https://gifdb.com/images/high/animated-cowboy-computer-coding-w60pcikl6ieg525n.gif"  />
 
 ###
